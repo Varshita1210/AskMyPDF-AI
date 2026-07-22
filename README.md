@@ -55,6 +55,16 @@ The system retrieves relevant information and generates accurate AI-powered resp
 
 <img width="100%" src="screenshots/upload.png"/>
 
+## Knowledge Base
+
+<img width="100%" src="screenshots/knowledgebase.png"/>
+
+---
+
+## Analytics
+
+<img width="100%" src="screenshots/analytics.png"/>
+
 ---
 
 # 🏗️ System Architecture
